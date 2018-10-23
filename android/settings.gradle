@@ -1,0 +1,3 @@
+rootProject.name = 'BTL6'
+
+include ':app'
